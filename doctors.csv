@@ -1,0 +1,3 @@
+doctor_name,department_id,specialization,consultation_fee,phone
+"Dr. Ayesha Khan",1,"Cardiologist",800.00,"9876500001"
+"Dr. Rohan Das",2,"Dermatologist",600.00,"9876500002"
